@@ -26,3 +26,20 @@ HDL Coder
 HDL Verifier
 MATLAB Coder
 Signal Processing Toolbox
+
+## Day 1 Verification Status
+
+### Verified
+- Vivado 2019.1 executable verified
+- MATLAB R2026a Update 3 verified
+- HDL Coder available; `makehdl` located successfully
+- HDL Verifier available; `cosimWizard` located successfully
+- Xilinx SDK 2019.1 launcher verified at `D:\xilinx\SDK\2019.1\bin\xsdk.bat`
+
+### Not Currently Available / Unresolved
+- PetaLinux: `petalinux-config` not found on D:
+- WSL: executable present, but distribution/status checks require follow-up
+- FPGA development board: not currently available
+- Second-vendor FPGA suite: not yet identified/verified
+- Component framework: not yet identified/verified
+- Unified software platform: not yet identified/verified
