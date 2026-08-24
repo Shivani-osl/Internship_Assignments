@@ -35,6 +35,7 @@ Signal Processing Toolbox
 - HDL Coder available; `makehdl` located successfully
 - HDL Verifier available; `cosimWizard` located successfully
 - Xilinx SDK 2019.1 launcher verified at `D:\xilinx\SDK\2019.1\bin\xsdk.bat`
+- Vitis: not found under `D:\xilinx`
 
 ### Not Currently Available / Unresolved
 - PetaLinux: `petalinux-config` not found on D:
