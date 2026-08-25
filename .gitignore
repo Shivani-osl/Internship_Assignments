@@ -24,3 +24,5 @@ tmp/
 *.bin
 *.xsa
 *.hdf
+
+assignment/01_rtl/vivado/
